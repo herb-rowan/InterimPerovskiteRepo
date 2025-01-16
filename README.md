@@ -10,6 +10,6 @@ This contains experimentation with vectorisation and visualisation of device str
 This contains initial training of basic regression models (Random Forest (RF) and Gradient Boosting)
 
 ## How to download the dataset:
- The dataset that we downloaded from this website: https://www.materials.zone/perovskite-database and following "Band gap analysis" --> "Data from plot in table" --> "Download CSV data"
+ The dataset that we downloaded can be found from this website: https://www.materials.zone/perovskite-database and following "Band gap analysis" --> "Data from plot in table" --> "Download CSV data"
 
 Note: All the outlined notebooks are collaborative
